@@ -5,4 +5,6 @@
 # Section 3 Header
 
 
-Inserted some headers into markdown document
+# Insert an Image From the Web
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
